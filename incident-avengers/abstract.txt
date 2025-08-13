@@ -1,0 +1,1 @@
+Incident commander agentic AI worker. Observability and response operation team has progressed an AI solution to assist with production incident management. I'd like to take it to the next level and create an incident commander agentic AI worker
