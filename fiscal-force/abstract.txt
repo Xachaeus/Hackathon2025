@@ -1,0 +1,3 @@
+JPMC - 1
+The Big Idea (Problem): Imagine someone is accidentally or on purpose spending state money in a weird way – like buying 100 industrial staplers for a small office, or paying the same vendor twice for no reason. Right now, it's hard to spot these oddball transactions in millions of records. What Your Team Will Do (AI/FinTech Application): You'll build an AI "bloodhound" using the Delaware Open Checkbook data. This AI will learn what "normal" spending looks like and then bark when it sees something fishy. Think of it as a super-smart accountant that never sleeps.
+
