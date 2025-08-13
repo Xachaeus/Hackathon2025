@@ -1,0 +1,1 @@
+How to use statistical model (logistic regression, correlation and SA (season adjustment) to forecase economic metrics (consumer spending).
