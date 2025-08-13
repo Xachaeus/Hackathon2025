@@ -1,0 +1,1 @@
+This project aims to develop a data-driven model for evaluating the return on investment (ROI) of various college majors and degree levels. Leveraging public datasets and forward-looking economic modeling, our initiative will empower students, families, educators, and policymakers with actionable insights into the true financial value of higher education. 
