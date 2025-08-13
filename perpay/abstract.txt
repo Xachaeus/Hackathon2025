@@ -1,0 +1,1 @@
+Prompt: Create an AI shopping assistant that helps users discover products in Perpay’s marketplace by chatting with them and offering personalized suggestions based on user preferences and purchase history.
